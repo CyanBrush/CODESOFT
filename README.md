@@ -1,5 +1,5 @@
-# CODESOFT
-CODESOFT INTERNSHIP REPOSITORY
+# CODSOFT
+CODSOFT INTERNSHIP REPOSITORY
 -------------------------------
 FIGMA LINKS FOR 3 TASKS
 -------------------------------
