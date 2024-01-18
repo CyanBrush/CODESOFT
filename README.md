@@ -25,5 +25,5 @@ E-commerce website
 
 An e-commerce website UI/UX project is the process of designing an online store that is both visually appealing and easy to use. The goal of a good e-commerce website is to make it easy for customers to find the products they want, and to encourage them to buy them.
 
-LINK : [https://www.figma.com/file/gIvAKluYGZgelRNCBjIQEx/sign-in%2Fsign-up-page?type=design&node-id=0%3A1&mode=design&t=Z2QlolYkiwllor7O-1](https://www.figma.com/file/Jph0Wjqi18dvpfZhUP3bZP/E-commerce-Website?type=design&node-id=0%3A1&mode=design&t=wMLNZ7vVZuuXORZ9-1)https://www.figma.com/file/Jph0Wjqi18dvpfZhUP3bZP/E-commerce-Website?type=design&node-id=0%3A1&mode=design&t=wMLNZ7vVZuuXORZ9-1
+LINK : https://www.figma.com/file/EnPIIu5ZfGhvfNR6W0ZMdY/Untitled?type=design&node-id=0%3A1&mode=design&t=AhDMx1v2aWfichtS-1
 --------------------------------
